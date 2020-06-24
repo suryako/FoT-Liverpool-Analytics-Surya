@@ -1,0 +1,5 @@
+.python-version
+.ipynb_checkpoints/
+goals_pc/
+play*/
+__pycache__/

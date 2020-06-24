@@ -1,0 +1,6 @@
+[submodule "Last-Row"]
+	path = Last-Row
+	url = https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row.git
+[submodule "lastrow_to_fot"]
+	path = lastrow_to_fot
+	url = https://github.com/ciaran-grant/lastrow_to_fot.git
