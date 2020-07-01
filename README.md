@@ -2,8 +2,10 @@
 
 **Visualisation code for my winning entry to the Liverpool Analytics Challenge by Friends of Tracking. Optimised for x6 speedup.**
 
-[Link to submission on Medium](https://medium.com/@kocherlakota/how-do-you-defend-against-liverpool-36c1a6996638)  
-[Walkthrough of winning submissions on Friends of Tracking](https://youtu.be/AFm3JNPu9Jw?t=8m16s)
+**[LINK TO ANALYSIS, on Medium](https://medium.com/@kocherlakota/how-do-you-defend-against-liverpool-36c1a6996638)  
+[VIDEO OF PRESENTATION, on FoT Youtube channel](https://youtu.be/AFm3JNPu9Jw?t=8m16s)**
+
+Pitch Control measures the probability that a team will retain possession of the ball if they pass it to another location on the field. It can be used to evaluate passing options for a player, and quantify the probability of success.
 
 <br/>
 
