@@ -1,7 +1,7 @@
 jupyterlab==2.1.1
 matplotlib==3.2.1
 moviepy==1.0.2
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.3
 Pillow==7.1.2
 seaborn==0.10.1
